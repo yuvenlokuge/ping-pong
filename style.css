@@ -1,0 +1,50 @@
+body
+{
+text-align: center;
+}
+
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start,#status,#restart{
+    font-size: 20px;
+}
+
+h4{
+    background-color:dodgerblue;
+    color: whitesmoke;
+    line-height: 2;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+
+}
+
+canvas{
+    border: 12px solid grey ;
+    border-radius: 12px;
+    box-shadow: 5px 5px 3px gray;
+}
+
+.modal-dialog{
+    width: 70%;
+
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 22px;
+}
